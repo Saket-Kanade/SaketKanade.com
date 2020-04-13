@@ -7502,7 +7502,7 @@ h1, h2, h3, h4, h5,
             -o-transform: scaleX(1);
             transform: scaleX(1); }
       #colorlib-main-nav ul li.active a span {
-        color: #2f89fc; }
+        color: #9a0026; }
         #colorlib-main-nav ul li.active a span:before {
           background: #2f89fc;
           visibility: visible;
@@ -7969,7 +7969,7 @@ header {
     width: 10px;
     height: 10px;
     content: '';
-    background: #2f89fc;
+    background: #808080;
     border-radius: 50%; }
   .progress-bar span {
     position: absolute;
@@ -7977,9 +7977,9 @@ header {
     right: 0;
     color: #6c757d; }
   .progress-bar.color-1 {
-    background: #2f89fc; }
+    background: #ffdb58; }
     .progress-bar.color-1:after {
-      background: #2f89fc; }
+      background: #ffdb58; }
 
 .services {
   position: relative; }
